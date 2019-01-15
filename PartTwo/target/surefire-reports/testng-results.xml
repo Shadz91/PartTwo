@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32769" started-at="2019-01-15T19:21:48Z" finished-at="2019-01-15T19:22:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32769" started-at="2019-01-15T19:21:48Z" finished-at="2019-01-15T19:22:20Z">
+      <class name="testCases.ValidateErrorTest">
+        <test-method status="PASS" signature="errorMessage()[pri:0, instance:testCases.ValidateErrorTest@3d51f06e]" name="errorMessage" duration-ms="20109" started-at="2019-01-16T00:52:00Z" finished-at="2019-01-16T00:52:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errorMessage -->
+      </class> <!-- testCases.ValidateErrorTest -->
+      <class name="testCases.ValidateLoginTest">
+        <test-method status="PASS" signature="logintest()[pri:0, instance:testCases.ValidateLoginTest@50eac852]" name="logintest" duration-ms="12651" started-at="2019-01-16T00:51:48Z" finished-at="2019-01-16T00:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- testCases.ValidateLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

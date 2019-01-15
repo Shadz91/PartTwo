@@ -1,0 +1,7 @@
+00:51:03.892 [main] INFO  resources.Base - Page is Loaded successfully
+00:51:06.526 [main] DEBUG resources.Base - Clicking on the Search button
+00:51:34.610 [main] DEBUG resources.Base - Clicking on the Continue button
+00:51:59.301 [main] INFO  resources.Base - Page is Loaded successfully
+00:52:00.757 [main] DEBUG resources.Base - Clicking on the Log in button
+00:52:10.227 [main] INFO  resources.Base - Page is Loaded successfully
+00:52:12.865 [main] DEBUG resources.Base - Clicking on the Search button
